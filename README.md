@@ -20,7 +20,4 @@ $ npm start
 
 # About BISION
 
-```
-https://youtu.be/jH2doFWV2bE
-```
-
+> https://youtu.be/jH2doFWV2bE
