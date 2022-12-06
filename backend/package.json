@@ -25,7 +25,7 @@
     "passport-google-oauth": "^2.0.0",
     "path": "^0.12.7",
     "pug": "2.0.0-beta11",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "rotating-file-stream": "^1.4.3",
     "socket.io": "^2.2.0",
     "winston": "^3.2.1"
